@@ -1,5 +1,6 @@
 # Markhor_Coin_Cryptocurrency
 This C++ app demonstrates the working of Blockchain in Cryptocurrency.
+![Header](/readme_assets/Header.png)
 
 ![PDF](/readme_assets/pg1.jpg)
 ![PDF](/readme_assets/pg2.jpg)
